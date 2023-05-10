@@ -51,6 +51,9 @@ function AdminIntro() {
             placeholder="Description"
           />
         </Form.Item>
+        <Form.Item name="image" label="Image URL">
+          <Input className="input" placeholder="Imgage URL" />
+        </Form.Item>
         <div className="flex justify-end w-full">
           <button className="px-10 py-2 text-white bg-primary" type="submit">
             SAVE
