@@ -1,0 +1,4 @@
+{
+  "livePreview.defaultPreviewPath": "/client/public/index.html",
+  "eslint.quiet": true
+}
