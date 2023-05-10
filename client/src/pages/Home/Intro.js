@@ -11,7 +11,7 @@ function Intro() {
       <div className="w-1/3 text-white">
         <img
           className="rounded-3xl"
-          src="https://media.licdn.com/dms/image/C5603AQErdYQEhffgmQ/profile-displayphoto-shrink_800_800/0/1611635027933?e=2147483647&v=beta&t=g7m1V8P7sPjXhWpgnVB2c0EOmwESJJ5AODjj-m-Br9w"
+          src="https://media.licdn.com/dms/image/C5603AQGUxxWWNXAPnw/profile-displayphoto-shrink_800_800/0/1613076470500?e=2147483647&v=beta&t=5EilmnHRHlFR5hRUA0qrY4GiApNKbpmIZPXA1yC7Z9c"
           alt="myPic"
         />
       </div>
