@@ -38,14 +38,14 @@ function Courses() {
             <p className="text-white">
               {courses[selectedItemIndex].description}
             </p>
-            <a
+            {/* <a
               href={courses[selectedItemIndex].link}
               className="text-tertiary hover:text-xl"
               target="_blank"
               rel="noreferrer"
             >
               View the Certificate
-            </a>
+            </a> */}
           </div>
           <img
             src={courses[selectedItemIndex].image}
